@@ -12,6 +12,7 @@ torchvision = "*"
 tensorflow-macos = "*"
 tensorflow-metal = "*"
 pandas = "*"
+tqdm = "*"
 
 [dev-packages]
 
